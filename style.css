@@ -11,3 +11,22 @@
  body {
      background-color: rgb(241, 187, 121);
  }
+ .text {
+     margin: 10px;
+ }
+ .time {
+     margin-left: calc(50% - 100px);
+     display: inline-block;
+     
+ }
+
+ .time p {
+     display: inline-block;
+     margin: 10px 4px 0px 0px;
+     text-decoration: underline;
+ }
+ .time p span {
+     color: red;
+     
+ }
+
