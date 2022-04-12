@@ -29,4 +29,18 @@
      color: red;
      
  }
+ .material {
+     margin-left: calc(50% - 100px);
+     margin-top: 10px;
+ }
+
+.material h4 {
+    color: red;
+    margin-top: 4px;
+    text-decoration: underline;
+}
+
+.material ul li {
+    padding: 2px;
+}
 
